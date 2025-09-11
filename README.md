@@ -63,8 +63,8 @@ It combines **Python-based exploratory data analysis (EDA)** with **RFM (Recency
 ## 📂 Dashboard Preview
 Here’s a snapshot of the **Power BI dashboard** built for UrbanMart:  
 
-![UrbanMart Dashboard Preview](<img width="1163" height="654" alt="image" src="https://github.com/user-attachments/assets/f789f7c8-5eb8-4433-8dd9-f66ab059ee3c" />
-)  
+![UrbanMart Dashboard Preview](https://github.com/user-attachments/assets/ba867121-faa4-4694-937a-9b4642dedc33)
+ 
 
 > 📌 To add your dashboard preview:  
 > - Take a screenshot of your Power BI report.  
