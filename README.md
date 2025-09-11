@@ -14,6 +14,13 @@ It combines **Python-based exploratory data analysis (EDA)** with **RFM (Recency
 
 ---
 
+## 📓 Jupyter Notebook (View Online)
+You can view the full Python analysis without downloading the repo using **nbviewer**:  
+
+🔗 [Click here to view the UrbanMart_Transactions.ipynb](https://nbviewer.org/github/Srishankar123/UrbanMart-Sales-Customer-Analysis-/blob/main/UrbanMart_Transactions.ipynb)
+
+---
+
 ## 🔑 Steps Performed in Python
 1. **Data Cleaning**
    - Handled missing values and duplicates.  
