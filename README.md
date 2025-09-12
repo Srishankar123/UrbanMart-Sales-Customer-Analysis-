@@ -81,14 +81,6 @@ Here’s a snapshot of the **Power BI dashboard** built for UrbanMart:
 
 ---
 
-## 📓 Jupyter Notebook (View Online)
-
-You can view the full Python analysis without downloading the repo using **nbviewer**:  
-
-🔗 [Click here to view the UrbanMart_Transactions.ipynb](https://nbviewer.org/github/Srishankar123/UrbanMart-Sales-Customer-Analysis-/blob/main/UrbanMart_Transactions.ipynb)
-
----
-
 ## 👤 Author
 **Srishankar Lokanath**  
 _Data Analyst | Business Analytics Enthusiast_
