@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project analyzes **UrbanMart’s transaction dataset** to uncover customer behavior, product performance, and revenue drivers.  
-It combines **Python-based exploratory data analysis (EDA)** with **RFM (Recency, Frequency, Monetary) analysis** for customer segmentation, and **Power BI dashboards** for interactive business insights.
+It combines **Python-based exploratory data analysis (EDA)** with **RFM (Recency, Frequency, Monetary) analysis** for customer segmentation, and **Power BI + Tableau dashboards** for interactive business insights.
 
 ---
 
@@ -45,7 +45,7 @@ You can view the full Python analysis without downloading the repo using **nbvie
 
 5. **Visualization**
    - Bar charts, histograms, correlation heatmaps (Matplotlib & Seaborn).  
-   - Power BI dashboards for interactive exploration.  
+   - Power BI and Tableau dashboards for interactive exploration.  
 
 ---
 
@@ -63,21 +63,20 @@ You can view the full Python analysis without downloading the repo using **nbvie
 ## ⚙️ Tools & Technologies
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Power BI**: Interactive dashboards  
+- **Tableau**: Interactive dashboards  
 - **Dataset**: Transactional CSV files  
 
 ---
 
 ## 📂 Dashboard Preview
-Here’s a snapshot of the **Power BI dashboard** built for UrbanMart:  
 
-![UrbanMart Dashboard Preview](https://github.com/user-attachments/assets/ba867121-faa4-4694-937a-9b4642dedc33)
- 
+### Power BI Dashboard
+![UrbanMart Power BI Dashboard](https://github.com/user-attachments/assets/ba867121-faa4-4694-937a-9b4642dedc33)
 
-> 📌 To add your dashboard preview:  
-> - Take a screenshot of your Power BI report.  
-> - Save it in a folder named **`images`** inside your GitHub repo.  
-> - Replace `images/powerbi_dashboard.png` with your actual file path.  
-> - You can also embed a GIF if you want to show interactivity.
+### Tableau Dashboard  
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/srishankar.lokanath/viz/UrbanMartSalesCustomerAnalysis/UrbanMartSalesCustomerAnalysis?publish=yes)  
+
+![UrbanMart Tableau Dashboard](images/UrbanMart_Sales_Customer_Analysis.png)
 
 ---
 
