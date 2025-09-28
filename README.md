@@ -76,7 +76,7 @@ You can view the full Python analysis without downloading the repo using **nbvie
 ### Tableau Dashboard  
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/srishankar.lokanath/viz/UrbanMartSalesCustomerAnalysis/UrbanMartSalesCustomerAnalysis?publish=yes)  
 
-![UrbanMart Tableau Dashboard]<img width="1428" height="778" alt="UrbanMart_ Sales   Customer Analysis" src="https://github.com/user-attachments/assets/48c1814c-22f1-4639-a7e3-a2b67e428356" />
+<img width="1428" height="778" alt="UrbanMart_ Sales   Customer Analysis" src="https://github.com/user-attachments/assets/48c1814c-22f1-4639-a7e3-a2b67e428356" />
 
 
 ---
